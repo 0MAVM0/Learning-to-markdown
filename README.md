@@ -76,3 +76,23 @@ def plus(*args: int) -> int:
 ```
 ___
 # Images (Картинки)
+![Image](f5e1ef3f-464b-4d.png)
+```txt
+![name](image)
+```
+___
+## Pop-up text on the image (Всплывающий текст на картинке)
+![Image2](82867d7c-952d-49.png, "Pop-up text on the image")
+```txt
+![name](image, 'text')
+```
+## Gif
+![Gif](https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)
+```txt
+![NameOfGif](Gif)
+```
+## Video
+[![Video](9d8e28ae-0ebd-44.png)](https://www.youtube.com/watch?v=NXNf9aYTCZ0)
+```txt
+[![name](image)](video)
+```
