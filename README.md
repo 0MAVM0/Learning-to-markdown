@@ -96,3 +96,14 @@ ___
 ```txt
 [![name](image)](video)
 ```
+___
+# Tables (Таблицы)
+| LEFT | CENTER | RIGHT |
+|:----------|:-----:|----------:|
+| left text | Center text | Right text |
+
+```txt
+  | LEFT | CENTER | RIGHT |
+  |:----------|:-----:|----------:|
+  | left text | Center text | Right text |
+```
