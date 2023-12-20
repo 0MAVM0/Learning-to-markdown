@@ -82,7 +82,7 @@ ___
 ```
 ___
 ## Pop-up text on the image (Всплывающий текст на картинке)
-![Image2](82867d7c-952d-49.png, "Pop-up text on the image")
+![Image2](82867d7c-952d-49.png "Pop-up text on the image")
 ```txt
 ![name](image, 'text')
 ```
