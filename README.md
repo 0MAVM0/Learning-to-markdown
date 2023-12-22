@@ -5,6 +5,11 @@
 ### Header 3 (###)
 #### Header 4 (####)
 ___
+
+&Hat;&Hat;&Hat;&Hat;&Hat;&Hat;&Hat;&Hat;&Hat;&Hat;
+```html
+___ (_ = 3x)
+```
 # Text styles (Стили текста)
 **bold** (** **)
 
@@ -107,3 +112,8 @@ ___
   |:----------|:-----:|----------:|
   | left text | Center text | Right text |
 ```
+___
+# ShieldsIO (Щиты ИЛИ Плашки)
+[ShieldsIO](https://shields.io)
+
+![npm](https://img.shields.io/npm/v/react)
